@@ -1,4 +1,4 @@
-Customer Churn Analysis Using Excel
+Teleco customer Analysis Using Excel
 Project Overview:
 
 This project focuses on analyzing customer churn using Microsoft Excel. The analysis includes data cleaning, creating pivot tables, generating insights, and creating visualizations to identify trends and actionable insights. The objective is to provide a comprehensive understanding of customer behavior and churn, showcasing data analytics skills using Excel.
